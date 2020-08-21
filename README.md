@@ -1,5 +1,5 @@
 # SistemaPedidos
-Atividade de classes abstratas da Digital House Brasil, que consiste em um sistema de pedidos de lanches.
+Atividade de classes abstratas da Digital House Brasil, que consiste em um sistema que imita um delivery.
 
 ## Instruções
 Você deve modelar um sistema de delivery com os seguintes critérios:
