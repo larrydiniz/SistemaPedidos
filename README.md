@@ -18,7 +18,8 @@ entregue
 
 No programa principal o usuário deve receber um menu podendo escolher entre as
 opções [1] sanduíches, [2] massas, [3] bolos.
+
 Após fazer a seleção cada opção deve levar para um submenu para escolher os
 ingredientes do lanche selecionado.
-e ao final o menu deve perguntar qual a sua distância do restaurante, calcular o preço e
+Ao final o menu deve perguntar qual a sua distância do restaurante, calcular o preço e
 o tempo de chegada do lanche até a sua casa.
